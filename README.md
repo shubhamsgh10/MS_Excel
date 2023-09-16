@@ -22,10 +22,3 @@ Welcome to my Excel Wizardry Repository! This is where I share my expertise in E
 
 - **Sample Data**: Datasets for hands-on practice.
 
-## Start Excel-lence:
-
-Explore this repository to elevate your Excel game, whether you're a newbie or a seasoned pro. Questions or suggestions? Feel free to reach out!
-
-Happy Excel-ing!
-
-![Excel Spreadsheet](excel-spreadsheet.jpg)
